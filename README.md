@@ -1,3 +1,3 @@
-# Chips in verilog
+# Hardware Components in verilog
 
 Some hardware components written with Verilog
